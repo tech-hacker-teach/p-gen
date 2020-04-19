@@ -19,7 +19,7 @@ $ pkg install git -y
 $ pip install requests
 $ pip install random
 $ ls
-$ git clone https://github.com/noob-hackers/p-gen
+$ git clone https://github.com/tech-hacker-teach/p-gen
 $ ls
 $ cd p-gen
 $ ls
