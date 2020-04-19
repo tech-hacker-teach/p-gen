@@ -7,7 +7,6 @@ p-gen tool is an python based script which create/generate randrom passwords in 
 
 Build Status Build Status License: MIT Rawsec's CyberSecurity Inventory
 
-photo_2019-04-15_16-15-50
 
 p-gen is available for
 Termux
